@@ -1,0 +1,1 @@
+f) No se ve el archivo porque se creo en otra rama en la que estamos switcheados.
